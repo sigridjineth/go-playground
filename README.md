@@ -1,2 +1,6 @@
-# grpc-up-and-running
-gRPC 시작에서 운영까지 실습
+# Go Playground
+프로그래밍 언어 Go를 학습하는 공간
+
+## 참고 자료
+* https://github.com/matryer/goblueprint
+* https://ahnseungkyu.com/237
